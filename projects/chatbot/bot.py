@@ -1,6 +1,8 @@
 """example code for ding-dong-bot with oop style"""
 from typing import List, Optional, Union
 import asyncio
+import os
+
 from datetime import datetime
 from wechaty_puppet import get_logger
 from wechaty import (
