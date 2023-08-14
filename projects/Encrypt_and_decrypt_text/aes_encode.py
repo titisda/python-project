@@ -2,6 +2,8 @@ from Crypto.Cipher import AES
 from Crypto import Random
 from binascii import b2a_hex
 import sys
+import os
+import time
 
 # get the plaintext
 plain_text = sys.argv[1]
