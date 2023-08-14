@@ -1,5 +1,10 @@
 import requests as rq
 from bs4 import BeautifulSoup
+import os
+import sys
+import time
+import json
+import jose
 
 url = input("Enter Link: ")
 if ("https" or "http") in url:
