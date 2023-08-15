@@ -1,6 +1,6 @@
 import tkinter as tk
 from time import strftime
-import os
+
 
 
 def light_theme():
