@@ -6,8 +6,8 @@ import winsound
 from threading import *
 import os
 import json
-import sys
-import jose
+
+
 # Create Object
 root = Tk()
 
