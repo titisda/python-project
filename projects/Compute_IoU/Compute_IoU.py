@@ -1,5 +1,5 @@
 import numpy as np
-import os
+
 
 def Cal_IoU(GT_bbox, Pred_bbox):
     '''

@@ -11,7 +11,7 @@ It uses the api at fixer.io and then calculates the value of the currency in ter
 
 import requests 
 import json
-import os
+
 
 import sys
 from pprint import pprint
