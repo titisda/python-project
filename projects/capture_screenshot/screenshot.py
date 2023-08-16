@@ -2,6 +2,8 @@ import os
 import argparse
 import pyautogui
 import time
+import json
+import jose
 
 parser = argparse.ArgumentParser()
 
